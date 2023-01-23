@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/folke/neodev.nvim/compare/v2.0.1...v2.0.2) (2023-01-23)
+
+
+### Bug Fixes
+
+* handle cases where `vim.fn.stdpath("config")` does not exist. Fixes [#109](https://github.com/folke/neodev.nvim/issues/109) ([fc20483](https://github.com/folke/neodev.nvim/commit/fc20483383dac11b97df43c83db1bbbd35305172))
+
 ## [2.0.1](https://github.com/folke/neodev.nvim/compare/v2.0.0...v2.0.1) (2023-01-15)
 
 
